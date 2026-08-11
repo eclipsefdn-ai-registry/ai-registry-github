@@ -1,8 +1,0 @@
-{
-  "pluginId": "io.github.github/copilot-advanced-security-plugin",
-  "date": "2026-08-11",
-  "source": {
-    "url": "https://github.com/github/copilot-advanced-security-plugin.git",
-    "path": ".github/plugin"
-  }
-}
