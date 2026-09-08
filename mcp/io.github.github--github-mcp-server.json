@@ -2,10 +2,10 @@
   "serverId": "io.github.github/github-mcp-server",
   "date": "2026-08-11",
   "config": {
-    "type": "http",
+    "type": "streamable-http",
     "url": "https://api.githubcopilot.com/mcp/",
     "headers": {
-      "Authorization": "Bearer <github-pat-or-app-token>"
+      "Authorization": "Bearer ${GITHUB_PAT_OR_APP_TOKEN}"
     }
   }
 }
