@@ -1,0 +1,8 @@
+{
+  "pluginId": "io.github.github/github-mcp-server",
+  "date": "2026-09-08",
+  "source": {
+    "url": "https://github.com/github/github-mcp-server.git",
+    "path": "agent-plugin"
+  }
+}
