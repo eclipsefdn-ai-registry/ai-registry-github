@@ -1,0 +1,20 @@
+{
+  "skillId": "io.github.github-actions-migrations",
+  "date": "2026-10-02",
+  "source": {
+    "url": "https://github.com/github/actions-migrations-via-copilot.git",
+    "path": [
+      "plugin/skills/actionlint",
+      "plugin/skills/azure-devops-migration",
+      "plugin/skills/bamboo-migration",
+      "plugin/skills/bitbucket-migration",
+      "plugin/skills/circleci-migration",
+      "plugin/skills/droneci-migration",
+      "plugin/skills/gitlab-migration",
+      "plugin/skills/jenkins-migration",
+      "plugin/skills/migration-core",
+      "plugin/skills/reusable-workflow-patterns",
+      "plugin/skills/travisci-migration"
+    ]
+  }
+}
