@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.github-advanced-security",
+  "date": "2026-10-02",
+  "source": {
+    "url": "https://github.com/github/copilot-advanced-security-plugin.git",
+    "path": ["skills/dependency-scanning", "skills/secret-scanning"]
+  }
+}
