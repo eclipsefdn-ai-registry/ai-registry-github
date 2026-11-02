@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.github/gh-actions-lock",
+  "date": "2026-10-30",
+  "source": {
+    "url": "https://github.com/github/gh-actions-lock.git",
+    "path": "skills/gh-actions-lock"
+  }
+}
